@@ -1,0 +1,36 @@
+{
+  "category1":[
+    {
+      "name":"content1",
+      "ref":"somewhere1.html"
+    },
+    {
+      "name":"content2",
+      "ref":"somewhere2.html"
+    }
+  ],
+  "category2":[
+    {
+      "name":"content1",
+      "ref":"somewhere3.html"
+    },
+    {
+      "name":"content2",
+      "ref":"somewhere4.html"
+    }
+  ],
+  "category3":[
+    {
+      "name":"content1",
+      "ref":"somewhere5.html"
+    },
+    {
+      "name":"content2",
+      "ref":"somewhere6.html"
+    },
+    {
+      "name":"content3",
+      "ref":"somewhere7.html"
+    }
+  ]
+}
