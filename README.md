@@ -9,7 +9,9 @@ html, css, javascript
 ## 구조
 
 main page: index.html
+
 sub page: somewhere1.html, somewhere2.html, somewhere3.html...
+
 page information: data.json
 
 각각의 페이지는 하나의 html 파일에 대응된다. 어느 페이지에서든 다른 임의의 페이지로 이동할 수 있도록 만들었다. 모든 페이지 왼편에는 navigation list가 존재한다. 
